@@ -20,5 +20,7 @@ public class CardDealer
         Card newObject = new Card("diamonds",10);
         System.out.println(newObject.getSuit());
         System.out.println(newObject.getValue());
+        Card newObject1 = new Card("diamonds",5);
+        
     }
 }
