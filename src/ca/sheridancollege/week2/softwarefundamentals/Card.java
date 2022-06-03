@@ -12,6 +12,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
  */
 public class Card 
 {
+    //adding comments at 1:16PM
     private String suit;// hearts, diamonds, spades and clubs
     private int value;//1-13
     
