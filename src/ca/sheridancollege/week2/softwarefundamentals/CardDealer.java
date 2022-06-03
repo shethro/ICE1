@@ -8,6 +8,8 @@ package ca.sheridancollege.week2.softwarefundamentals;
 /**
  * The class where we create Cards
  * @author dancye, 2019
+ * Modified by Ronak Sheth
+ * Student Number 99999999
  */
 public class CardDealer 
 {
@@ -15,5 +17,6 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+        Card newObject = new Card("diamonds",10);
     }
 }
